@@ -1,0 +1,7 @@
+streamlit
+pandas
+azure-storage-blob
+azure-data-tables
+python-dotenv
+google-generativeai
+plotly
